@@ -1,6 +1,4 @@
-# spotify-collaboration-popularity-analysis
-
-🎧 Spotify Collaboration & Popularity Analysis
+# 🎧 spotify-collaboration-popularity-analysis
 
 Analyzed 20K+ Spotify tracks to evaluate how artist collaborations influence popularity and musical features
 
